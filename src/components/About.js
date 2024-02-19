@@ -13,6 +13,7 @@ function About({bio, github, linkedin}) {
       />
     </div>
   );
+  
 }
 
 export default About;
